@@ -1,0 +1,1 @@
+A simple repo to show typical CI-CD processes
