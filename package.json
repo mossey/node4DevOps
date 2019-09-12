@@ -4,7 +4,7 @@
   "description": "A simple app that will demonstrate my understanding of DevOps pipelines",
   "main": "app.js",
   "scripts": {
-    "test": "test",
+    "test": "mocha --exit",
     "lint": "eslint ./ "
   },
   "author": "mossey",
