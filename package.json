@@ -1,0 +1,23 @@
+{
+  "name": "node4devops",
+  "version": "1.0.0",
+  "description": "A simple app that will demonstrate my understanding of DevOps pipelines",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mossey",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "chai-json-equal": "0.0.1",
+    "express": "^4.17.1",
+    "mocha": "^6.2.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "chai-json-pattern": "^1.1.0",
+    "should": "^13.2.3"
+  }
+}
