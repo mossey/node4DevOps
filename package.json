@@ -14,7 +14,7 @@
     "chai-http": "^4.3.0",
     "chai-json-equal": "0.0.1",
     "express": "^4.17.1",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
